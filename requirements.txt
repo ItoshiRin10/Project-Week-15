@@ -4,7 +4,7 @@ blinker==1.5
 certifi==2021.10.8
 cffi==1.15.1
 charset-normalizer==3.0.0
-click==7.1.2
+click==2.2.5
 colorama==0.4.6
 dnspython==1.16.0
 Flask==7.1.2
