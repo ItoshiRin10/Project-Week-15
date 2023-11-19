@@ -3,7 +3,7 @@ beautifulsoup4==4.9.3
 blinker==1.5
 certifi==2021.10.8
 cffi==1.15.1
-charset-normalizer==3.3.2
+charset-normalizer==3.0.0
 click==8.1.7
 colorama==0.4.6
 dnspython==2.3.0
